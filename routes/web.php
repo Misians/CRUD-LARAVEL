@@ -16,4 +16,8 @@ use App\Http\Controllers\StudentController;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('thanks', function() {
+	return('Obrigado pela atenção ESIG ❤');
+});
 Route::resource("/student", StudentController::class);
