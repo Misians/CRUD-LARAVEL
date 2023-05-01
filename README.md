@@ -79,42 +79,34 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
         <td>✅</td>
         <td>CREATE, READ, DELETE & UPDATE IN LARAVEL</td>
     </tr>
-    
     <tr>
         <td>✅</td>
         <td>POSTGRESQL</td>
     </tr>
-    
     <tr>
         <td>✅</td>
         <td>USING BOOSTRAP</td>
     </tr>
-    
     <tr>
         <td>✅</td>
         <td>ELOQUENT ORM</td>
-    </tr>
-        
+    </tr> 
     <tr>
         <td>❌</td>
         <td>PHPTEST</td>
     </tr>
-    
     <tr>
         <td>❌</td>
         <td>VUE OR ANGULAR</td>
     </tr>
-    
     <tr>
         <td>❌</td>
         <td>JQUERY</td>
     </tr>
-    
     <tr>
         <td>✅</td>
         <td>SERVER RUNNING -> http://esig-test.luk3d.com/public/student</td>
     </tr>
-    
     <tr>
         <td>✅</td>
         <td>FLUTTER APP</td>
