@@ -64,3 +64,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<h2>MANUAL PARA DAR RUN NO PROJETO</h2>
+<p>É DE SUMA IMPORTÂNCIA TER UM AMBIENTE LARAVEL CONFIGURADO</p>
+<p>Porém caso não tenha poderá configurar seguindo esse tutorial: <a href="https://www.youtube.com/watch?v=bV26n0fmqoE&t=723s">CLIQUE AQUI</a></p>
+<p><b>Para rodar o projeto:</b> php artisan serve</p>
+<p>Usando o comando acima no meu caso ele abrirá uma pagina no localhost:8000</p>
+<p>fique atento que a página onde o crud fica é a pagina -> localhost:8000/public/student </p>
