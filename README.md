@@ -71,3 +71,52 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 <p><b>Para rodar o projeto:</b> php artisan serve</p>
 <p>Usando o comando acima no meu caso ele abrirá uma pagina no localhost:8000</p>
 <p>fique atento que a página onde o crud fica é a pagina -> localhost:8000/public/student </p>
+
+<h2>Steps desenvolvidos</h2>
+
+<table border="1">
+    <tr>
+        <td>✅</td>
+        <td>CREATE, READ, DELETE & UPDATE IN LARAVEL</td>
+    </tr>
+    
+    <tr>
+        <td>✅</td>
+        <td>POSTGRESQL</td>
+    </tr>
+    
+    <tr>
+        <td>✅</td>
+        <td>USING BOOSTRAP</td>
+    </tr>
+    
+    <tr>
+        <td>✅</td>
+        <td>ELOQUENT ORM</td>
+    </tr>
+        
+    <tr>
+        <td>❌</td>
+        <td>PHPTEST</td>
+    </tr>
+    
+    <tr>
+        <td>❌</td>
+        <td>VUE OR ANGULAR</td>
+    </tr>
+    
+    <tr>
+        <td>❌</td>
+        <td>JQUERY</td>
+    </tr>
+    
+    <tr>
+        <td>✅</td>
+        <td>SERVER RUNNING -> http://esig-test.luk3d.com/public/student</td>
+    </tr>
+    
+    <tr>
+        <td>✅</td>
+        <td>FLUTTER APP</td>
+    </tr>  
+</table>
